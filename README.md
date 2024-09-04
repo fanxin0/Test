@@ -23,6 +23,3 @@
 - 体系
 - 公众号
 
-## 截图
-
-![](https://raw.githubusercontent.com/wangchenyan/wan-harmony/master/art/screenshot.jpg)
